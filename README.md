@@ -1,39 +1,38 @@
-# 👋 Hi, I'm Veniamin Davydenko
+# Veniamin Davydenko
 
-## 🧠 About Me
-I'm a passionate **Business Intelligence Analyst** with a strong background in **data analysis, visualization, and process optimization**. I enjoy transforming raw data into meaningful insights that drive smart business decisions.  
+Supply Chain & Inventory Analyst transitioning into BI — four years on aerospace and high-volume warehouse floors, now applying that operational context to data analysis.
 
-I specialize in **Power BI**, **Tableau**, **SQL**, **Python**, and **Excel** to create insightful dashboards and automate reporting processes. My expertise also includes **data modeling**, **ETL workflows**, and **performance analysis** that help businesses make data-driven decisions with confidence.
+Current role: Shipping & Inventory Specialist at Valin Corporation, where I own inventory accuracy across 1,000+ SKUs in Prophet 21 ERP and Latitude WMS and ship daily to customers including SpaceX. Before that: production and traceability work at Astronics PECO on Airbus components under AS9100 and ITAR standards.
 
----
-
-## ⚙️ Technical Skills
-- **Languages:** SQL (DML), Python 
-- **Data Visualization:** Power BI, Tableau, Excel  
-- **Database Management:** SQL Server, PostgreSQL  
-- **ETL & Modeling:** Power Query, DAX, Dimensional Modeling (Star Schema, OLAP)  
-- **Other Tools:** Git, Jupyter Notebook, Excel (Advanced Analytics)
+The floor experience shapes how I build analysis. The ESRC Supplier OTD project came directly from that — it answers the question supply chain teams actually argue about every week: which late suppliers put the build schedule at risk, not just which ones are late the most.
 
 ---
 
-## 🌍 Fun Facts
-- I love exploring how **data can improve decision-making** in everyday business.
-- I’m a fan of **historical fiction** and enjoy finding patterns in both stories and datasets.
-- I’m always learning something new — right now, I’m diving deeper into **data engineering and automation**.
+## Skills
+
+**Data & BI** — SQL, Power BI / DAX, Tableau, Python, Excel  
+**ERP / WMS** — Prophet 21, Latitude WMS, UPS WorldShip  
+**Domain** — Supply chain, inventory, OTD, aerospace/defense (AS9100, ITAR)  
+**Analysis** — Supplier scorecards, delinquency aging, KPI reporting, ABC analysis, root-cause
 
 ---
 
-## 💼 Let’s Collaborate
-I’m open to **outsourcing projects**, **remote BI work**, or **data analysis collaborations**.  
-If you’re looking for a dedicated analyst who thrives on solving problems with data — I’d love to connect!
+## Projects
+
+**[ESRC Supplier OTD & Delinquency Analysis](https://github.com/VeniaminDavydenko/esrc-supplier-otd-analysis)**  
+Supplier-performance analysis for an aerospace ESRC supply chain. The headline finding: counting late POs points at the wrong problem — weighting by line-stopper criticality reorders the priority list and changes the recommendation. 18-month PO dataset, 7 suppliers, 6 electrical commodities.
 
 ---
 
-## 📫 Connect With Me
-- **Resume:** https://docs.google.com/document/d/1QIn8S-pRUSAlsAgapWdYY8SCCqLUw_FdE1tAI5JtyoY/edit?usp=sharing 
-- **LinkedIn:** https://www.linkedin.com/in/veniamin-davydenko/ 
-- **Location:** Oregon, USA | 🌎 *Open to relocation*  
+## Education
+
+TripleTen — Business Intelligence Analytics (2025)  
+Coursework: SQL, Python, Power BI, Tableau, Excel, data visualization
 
 ---
 
-⭐ Thanks for visiting my GitHub! Feel free to check out my projects or reach out if you’d like to collaborate.
+## Contact
+
+Email: veniamin2002davydenko@gmail.com  
+LinkedIn: [linkedin.com/in/veniamin-davydenko](https://www.linkedin.com/in/veniamin-davydenko/)  
+Location: Oregon, USA — open to relocation
