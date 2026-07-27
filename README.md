@@ -46,5 +46,5 @@ I turn messy operational data into decisions people on the floor can actually ac
 
 ### 📫 Let's Connect:
 
-- **LinkedIn:** [https://www.linkedin.com/in/veniamin-davydenko]
+- **LinkedIn:** linkedin.com/in/veniamin-davydenko
 - **Email:** Veniamin2002Davydenko@gmail.com
