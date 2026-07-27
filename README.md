@@ -44,13 +44,7 @@ I turn messy operational data into decisions people on the floor can actually ac
 
 ---
 
-### 📈 GitHub Stats:
-
-![Venny's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=default)
-
 ### 📫 Let's Connect:
 
 - **LinkedIn:** [linkedin.com/in/YOUR-HANDLE](https://www.linkedin.com/in/YOUR-HANDLE/)
-- **Email:** your.email@example.com
-
-*"Warehouse floor experience plus analytics. I know where the data comes from because I used to move it."*
+- **Email:** Veniamin2002Davydenko@gmail.com
