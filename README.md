@@ -1,38 +1,56 @@
-# Veniamin Davydenko
+# Hi, I'm Venny Davydenko! 👋
 
-Supply Chain & Inventory Analyst transitioning into BI — four years on aerospace and high-volume warehouse floors, now applying that operational context to data analysis.
+### Supply Chain Data Analyst | SQL | Python | Power BI | Tableau | Inventory & Operations Analytics
 
-Current role: Shipping & Inventory Specialist at Valin Corporation, where I own inventory accuracy across 1,000+ SKUs in Prophet 21 ERP and Latitude WMS and ship daily to customers including SpaceX. Before that: production and traceability work at Astronics PECO on Airbus components under AS9100 and ITAR standards.
-
-The floor experience shapes how I build analysis. The ESRC Supplier OTD project came directly from that — it answers the question supply chain teams actually argue about every week: which late suppliers put the build schedule at risk, not just which ones are late the most.
+I turn messy operational data into decisions people on the floor can actually act on. My background is warehouse and aerospace manufacturing operations, so I don't just read the numbers in a system, I know how they got there. I focus on supplier performance, inventory health, and the gap between what the ERP says and what is really on the shelf.
 
 ---
 
-## Skills
+### 🛠️ Tech Stack & Skills:
 
-**Data & BI** — SQL, Power BI / DAX, Tableau, Python, Excel  
-**ERP / WMS** — Prophet 21, Latitude WMS, UPS WorldShip  
-**Domain** — Supply chain, inventory, OTD, aerospace/defense (AS9100, ITAR)  
-**Analysis** — Supplier scorecards, delinquency aging, KPI reporting, ABC analysis, root-cause
+| | |
+| --- | --- |
+| ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) | PostgreSQL, window functions, CTEs, query optimization |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | Pandas, NumPy, Matplotlib, Seaborn |
+| ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) | DAX measures, KPI dashboards, supplier scorecards |
+| ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) | Operational reporting and executive views |
+| ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white) | Formula-driven models, pivot analysis, auditable workbooks |
+| ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black) ![Polars](https://img.shields.io/badge/Polars-CD792C?style=for-the-badge&logo=polars&logoColor=white) | Fast local analytics and repeatable data pipelines |
 
----
-
-## Projects
-
-**[ESRC Supplier OTD & Delinquency Analysis](https://github.com/VeniaminDavydenko/esrc-supplier-otd-analysis)**  
-Supplier-performance analysis for an aerospace ESRC supply chain. The headline finding: counting late POs points at the wrong problem — weighting by line-stopper criticality reorders the priority list and changes the recommendation. 18-month PO dataset, 7 suppliers, 6 electrical commodities.
-
----
-
-## Education
-
-TripleTen — Business Intelligence Analytics (2025)  
-Coursework: SQL, Python, Power BI, Tableau, Excel, data visualization
+- **Analytics & BI:** KPI development, supplier scorecards, dashboard automation, root cause analysis
+- **Programming:** SQL, Python (Pandas, NumPy, Matplotlib), DuckDB, Polars
+- **Supply Chain Systems:** Epicor Prophet 21 ERP, Latitude WMS, cycle counting, ABC classification
+- **Domain Expertise:** On-time delivery and delinquency tracking, clear-to-build shortages, inventory accuracy, receiving and shipping operations, AS9100 environments
 
 ---
 
-## Contact
+### 🚀 Featured Projects:
 
-Email: veniamin2002davydenko@gmail.com  
-LinkedIn: [linkedin.com/in/veniamin-davydenko](https://www.linkedin.com/in/veniamin-davydenko/)  
-Location: Oregon, USA — open to relocation
+- **[Aerospace Supply Chain SQL Analysis](https://github.com/YOUR-USERNAME/aerospace-supply-chain-sql)** - Analyzed 18 months of purchase order history covering 274 parts across 40 suppliers in PostgreSQL. Reached 96.9% ABC classification accuracy and traced 7 clear-to-build shortages back to a single underperforming supplier.
+
+- **[Supplier OTD & Delinquency Analysis](https://github.com/YOUR-USERNAME/supplier-otd-analysis)** - End-to-end supplier performance study with a synthetic PO history generator, Python charting, a formula-driven Excel scorecard, and a 6-slide leadership readout. Includes a full Power BI DAX rebuild guide so the scorecard can be reproduced in BI.
+
+- **[Revenue Funnel Analysis](https://github.com/YOUR-USERNAME/revenue-funnel-analysis)** - Rebuilt a revenue model that had been overstating funnel abandonment. Applying the actual 24.6% pricing conversion rate brought the estimate from roughly $30.9M down to a defensible $7.6M, delivered in a live auditable Excel workbook with corrected charts.
+
+- **[Inventory Control Model](https://github.com/YOUR-USERNAME/inventory-control-excel)** - Reorder point, safety stock, and ABC segmentation model built to show where stock is tied up and where stockout risk actually sits.
+
+---
+
+### 📊 Key Focus Areas:
+
+- **Operations First:** Every metric traces back to a real bottleneck, a late supplier, a bad count, or a line that cannot build
+- **Auditable Work:** Live formulas and documented logic instead of hardcoded numbers, so anyone can check the math
+- **Clear Readouts:** Turning analysis into short, plain-language reports that leadership and floor supervisors can both use
+
+---
+
+### 📈 GitHub Stats:
+
+![Venny's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=default)
+
+### 📫 Let's Connect:
+
+- **LinkedIn:** [linkedin.com/in/YOUR-HANDLE](https://www.linkedin.com/in/YOUR-HANDLE/)
+- **Email:** your.email@example.com
+
+*"Warehouse floor experience plus analytics. I know where the data comes from because I used to move it."*
