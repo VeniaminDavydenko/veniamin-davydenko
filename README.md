@@ -1,4 +1,4 @@
-# Hi, I'm Venny Davydenko! 👋
+# Hi, I'm Veniamin Davydenko! 👋
 
 ### Supply Chain Data Analyst | SQL | Python | Power BI | Tableau | Inventory & Operations Analytics
 
@@ -46,5 +46,5 @@ I turn messy operational data into decisions people on the floor can actually ac
 
 ### 📫 Let's Connect:
 
-- **LinkedIn:** [linkedin.com/in/YOUR-HANDLE](https://www.linkedin.com/in/YOUR-HANDLE/)
+- **LinkedIn:** [linkedin.com/in/YOUR-HANDLE](https://www.linkedin.com/in/veniamin-davydenko)
 - **Email:** Veniamin2002Davydenko@gmail.com
